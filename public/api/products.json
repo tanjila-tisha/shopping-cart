@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "15 Holes Intelligence Box",
+    "description": "Shape sorters are perfect toy for toddlers and children. Shape  sorters are perfect toy for toddlers. The toy exposes them to various shapes and colors, improves finger dexterity, fine tunes their motor and logic skills. By dropping each shape  into its proper hole, your children learn the concept of cause and effect.",
+    "image": "/images/products/IntelligenceBox.jpg",
+    "regularPrice": 499,
+    "salesPrice": 399
+  },
+  {
+    "id": 2,
+    "title": "180PCS Geometric Shape",
+    "description": "180PCS Creative Geometric Shape Tangram Montessori Games Educational Toys Wooden Jigsaw Pluzzes. 180PCS Creative Geometric Shape Tangram Montessori Games",
+    "image": "/images/products/Geometric.jpg",
+    "regularPrice": 599,
+    "salesPrice": 499
+  },
+  {
+    "id": 3,
+    "title": "Cognitive Learning Shape Box",
+    "description": "The learning box allows kids to recognize and understand shapes and use them to learn basic cognitive skills. Stimulates hand-eye coordination, share recognition skills and knowledge of colors.",
+    "image": "/images/products/CognitiveBox.png",
+    "regularPrice": 799,
+    "salesPrice": 699
+  },
+  {
+    "id": 4,
+    "title": "Colourful Sudoku Educate",
+    "description": "A beautiful wooden sudoku with 81 number cubes together with matching color for each number.Combination valves fitted! The colorful numbers in this FSC 100% certified wood sudokus are tightly interconnected – which is the challenge of keeping an overview even bigger!",
+    "image": "/images/products/Sudoku.jpg",
+    "regularPrice": 949,
+    "salesPrice": 749
+  },
+  {
+    "id": 5,
+    "title": "Jigsaw Puzzle Board",
+    "description": "Turn designs into a great game with customizable puzzles! This Jigsaw puzzle is made of wooden board with 240 Pcs for active and curious kids. This gives hours of puzzle enjoyment.",
+    "image": "/images/products/Jigsaw.png",
+    "regularPrice": 679
+  },
+  {
+    "id": 6,
+    "title": "Multifunctional Farm Bus",
+    "description": "Mothers can help the baby to learn and play, exercise the baby’s hands-on ability.This multi-functional trolley with high-quality wood, hard wood, wear-resistant, smooth and burr-free, smooth edges will not hurt the baby.",
+    "image": "/images/products/FarmBus.jpg",
+    "regularPrice": 549
+  }
+]
